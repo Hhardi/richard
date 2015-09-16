@@ -1,0 +1,42 @@
+h1 {
+    position:static;
+    text-decoration: underline;
+    text-align: center;
+}
+h1, h2, h3 {
+    background-color: #b3cfd3;
+    box-shadow: 8px 5px 8px #888888;
+    opacity: 0.9;
+    color: #00009d;
+}
+ul {
+    font-weight: 500;
+}
+/*pildi suurus*/
+img {
+    height:100px;
+    width:auto;
+}
+#kool {
+    height: 150px;
+    width: auto;
+}
+table {
+    border: 2px solid grey;
+    border-radius: 10px;
+}
+
+p.inline {
+    display: inline;
+}
+p {
+    margin:10px;
+    font-family: serif;
+    padding-left: 25px;
+    font-size: 16px;
+}
+body {
+    margin-top: 0px;
+    padding: 0px;
+    background-image: url(http://galvestonislandguide.com/wp-content/uploads/2014/01/blue-background1.jpg);
+}
